@@ -30,6 +30,12 @@ p {
   margin: 0 0 1.2em;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 @media (max-width: 850px) {
   body {
     padding: 15px;
